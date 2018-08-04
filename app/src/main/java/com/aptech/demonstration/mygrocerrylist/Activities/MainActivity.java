@@ -11,7 +11,7 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.himaanshugoyal.demonstration.mygrocerrylist.R;
+import com.aptech.demonstration.mygrocerrylist.R;
 
 public class MainActivity extends AppCompatActivity {
 
