@@ -1,16 +1,16 @@
 package com.aptech.demonstration.mygrocerrylist.Model;
 
-public class Grocerry
+public class Grocery
 {
     private String name;
     private String quantity;
     private String dateItemAdded;
     private int id;
 
-    public Grocerry() {
+    public Grocery() {
     }
 
-    public Grocerry(String name, String quantity, String dateItemAdded, int id) {
+    public Grocery(String name, String quantity, String dateItemAdded, int id) {
         this.name = name;
         this.quantity = quantity;
         this.dateItemAdded = dateItemAdded;

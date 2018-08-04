@@ -2,7 +2,6 @@ package com.aptech.demonstration.mygrocerrylist.Activities;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -12,7 +11,7 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.aptech.demonstration.mygrocerrylist.R;
+import com.himaanshugoyal.demonstration.mygrocerrylist.R;
 
 public class MainActivity extends AppCompatActivity {
 
